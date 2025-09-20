@@ -7,22 +7,22 @@ export const FeaturesKeys = () =>{
                 <h1>Key Features</h1>
                 <p>All the tools you need for a seamless library experience.</p>
             </div>
-            <div className="d-flex flex-sm-row flex-column justify-content-center align-items-center gap-3 row">    
-                <div className="card text-center col-lg-3 col-md-8 col-8 p-3 bg-light my-sm-0 my-3">
+            <div className="d-flex flex-sm-row flex-column justify-content-center row align-items-stretch">    
+                <div className="card text-center col-lg-3 col-md-8 col-8 p-3 bg-light my-lg-0 my-md-3 my-sm-3 my-3 mx-auto">
                     <div className="card-body">
                         <i className="fa-solid fa-book text-success fa-2x mb-3"></i>
                         <h5 className="card-title">Read Books Online</h5>
                         <p className="card-text">Enjoy reading a wide range of books in a digital form</p>
                     </div>
                 </div>
-                <div className="card text-center col-lg-3 col-md-8 col-8 p-3 bg-light my-sm-0 my-3">
+                <div className="card text-center col-lg-3 col-md-8 col-8 p-3 bg-light my-lg-0 my-md-3 my-sm-3 my-3 mx-auto">
                     <div className="card-body">
-                        <i className="fa-solid fa-star text-success fa-2x mb-3"></i>
+                        <i className="fa-solid fa-star text-success fa-2x mb-3 mx-auto"></i>
                         <h5 className="card-title">Rate &amp; Comment</h5>
                         <p className="card-text">Join the community and share your thoughts on books.</p>
                     </div>
                 </div>
-                <div className="card text-center col-lg-3 col-md-8 col-8 p-3 bg-light my-sm-0 my-3">
+                <div className="card text-center col-lg-3 col-md-8 col-8 p-3 bg-light my-lg-0 my-md-3 my-sm-3 my-3 mx-auto">
                     <div className="card-body">
                         <i className="fa-solid fa-bookmark text-success fa-2x mb-3"></i>
                         <h5 className="card-title">Favorites List</h5>
